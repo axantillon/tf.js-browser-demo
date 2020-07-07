@@ -1,4 +1,4 @@
-#tf.js MNIST Train and Classify Demo
+# tf.js MNIST Train and Classify Demo
 Adapted from https://codelabs.developers.google.com/codelabs/tfjs-training-classfication/index.html?index=..%2F..index#0
 to work in browser with an express server
 
