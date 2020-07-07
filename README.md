@@ -1,3 +1,10 @@
+#tf.js MNIST Train and Classify Demo
+Adapted from https://codelabs.developers.google.com/codelabs/tfjs-training-classfication/index.html?index=..%2F..index#0
+to work in browser with an express server
+
+
+
+
 # hello-express
 
 A server that serves a webpage, its resources, and some data
